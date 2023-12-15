@@ -1,0 +1,11 @@
+{
+  "results": [
+    {
+      "type": "revenue",
+      "name": "salary",
+      "category": "Revenue",
+      "amount": 60,
+      "date": "2021-03-01"
+    }
+  ]
+}
